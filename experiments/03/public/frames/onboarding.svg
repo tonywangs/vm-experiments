@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1100" viewBox="0 0 720 1100">
+<rect width="720" height="1100" fill="#f5f2eb"/>
+<g font-family="Arial, sans-serif">
+<text x="54" y="79" font-size="32" fill="#2b5141">MEADOW</text>
+<text x="568" y="77" font-size="17" fill="#89947c">1 of 3</text>
+<circle cx="360" cy="335" r="153" fill="#dbe6c6"/>
+<rect x="291" y="215" width="138" height="228" rx="20" fill="#fff" transform="rotate(-9 360 335)"/>
+<rect x="310" y="247" width="100" height="98" rx="10" fill="#a8ba80"/>
+<path d="M312 396 L341 369 L369 382 L402 357" stroke="#728c58" stroke-width="8" fill="none"/>
+<text x="360" y="574" text-anchor="middle" font-size="43" fill="#2b5141">Make room for</text>
+<text x="360" y="628" text-anchor="middle" font-size="43" fill="#2b5141">a slower day.</text>
+<text x="360" y="687" text-anchor="middle" font-size="19" fill="#869176">A little structure for the things that matter.</text>
+<rect x="91" y="802" width="538" height="80" rx="10" fill="#315943"/>
+<text x="360" y="850" text-anchor="middle" font-size="24" fill="#fff">Create your space</text>
+<text x="360" y="937" text-anchor="middle" font-size="16" fill="#879177">Already here? Sign in</text>
+<text x="360" y="1050" text-anchor="middle" font-size="12" fill="#a2aa92">MEADOW DESIGN REVIEW / DRAFT 1</text>
+</g>
+</svg>

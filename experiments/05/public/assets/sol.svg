@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480">
+<rect width="640" height="480" fill="#f2e3c2"/>
+<circle cx="486" cy="178" r="134" fill="#ca994e" opacity=".1"/>
+<path d="M0 337 Q170 291 329 352 T640 328 V480 H0Z" fill="#ca994e" opacity=".12"/>
+<text x="47" y="68" font-family="Georgia,serif" font-size="32" fill="#ca994e">sol.</text>
+<text x="48" y="104" font-family="sans-serif" font-size="9" letter-spacing="3" fill="#ca994e">WEEKEND COLLECTION</text>
+<ellipse cx="403" cy="361" rx="111" ry="17" fill="#ca994e" opacity=".12"/>
+<rect x="325" y="162" width="128" height="198" rx="24" fill="#ca994e"/>
+<rect x="355" y="145" width="68" height="31" rx="9" fill="#ca994e"/>
+<rect x="346" y="224" width="86" height="76" rx="2" fill="#f2e3c2"/>
+<text x="389" y="259" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#ca994e">sol</text>
+<path d="M368 275h41" stroke="#ca994e" opacity=".35"/>
+<text x="48" y="415" font-family="Georgia,serif" font-size="23" fill="#ca994e">Find a little sunshine.</text>
+<text x="49" y="446" font-family="sans-serif" font-size="9" letter-spacing="1.7" fill="#ca994e">EXPLORE THE COLLECTION →</text>
+</svg>

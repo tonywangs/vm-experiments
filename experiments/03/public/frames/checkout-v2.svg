@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#f5f2eb"/>
+<g font-family="Arial, sans-serif">
+<rect width="1200" height="76" fill="#fff"/>
+<text x="70" y="49" font-size="29" fill="#294d3f">FORME</text>
+<text x="880" y="45" font-size="15" fill="#768276">BAG / CHECKOUT</text>
+<text x="70" y="161" font-size="40" fill="#294d3f">Almost yours.</text>
+<text x="70" y="198" font-size="17" fill="#859080">A few details, then we'll take care of the rest.</text>
+<rect x="70" y="240" width="530" height="456" rx="12" fill="#fff"/>
+<text x="105" y="285" font-size="19" fill="#3c5a46">Shipping details</text>
+<text x="105" y="330" font-size="13" fill="#86917e">EMAIL ADDRESS</text>
+<rect x="105" y="348" width="460" height="47" rx="5" fill="#f4f5ef"/>
+<text x="123" y="378" font-size="15" fill="#a2aa98">alex@example.com</text>
+<text x="105" y="431" font-size="13" fill="#86917e">DELIVERY ADDRESS</text>
+<rect x="105" y="448" width="460" height="47" rx="5" fill="#f4f5ef"/>
+<rect x="105" y="518" width="216" height="47" rx="5" fill="#f4f5ef"/>
+<rect x="340" y="518" width="225" height="47" rx="5" fill="#f4f5ef"/>
+<text x="105" y="625" font-size="15" fill="#86917e">Standard delivery · 3–5 business days</text>
+<rect x="652" y="240" width="476" height="456" rx="12" fill="#e5ebdc"/>
+<text x="688" y="286" font-size="19" fill="#3c5a46">Your order</text>
+<rect x="688" y="315" width="96" height="92" rx="6" fill="#d0c6ad"/>
+<rect x="716" y="329" width="40" height="64" rx="7" fill="#f6f1de"/>
+<text x="806" y="348" font-size="17" fill="#3c5a46">Everyday carafe</text>
+<text x="806" y="379" font-size="14" fill="#81916d">Sand / one size</text>
+<text x="688" y="465" font-size="17" fill="#3c5a46">Total</text>
+<text x="1030" y="465" font-size="22" fill="#3c5a46">$48</text>
+<rect x="688" y="592" width="404" height="64" rx="7" fill="#315943"/>
+<text x="890" y="632" text-anchor="middle" font-size="19" fill="#fff">Place order · $48</text>
+<text x="890" y="555" text-anchor="middle" font-size="13" fill="#83916f">Secure payment · free returns</text>
+<text x="70" y="761" font-size="13" fill="#96a089">FORME DESIGN REVIEW / DRAFT 2</text>
+</g>
+</svg>
