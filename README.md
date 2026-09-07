@@ -30,4 +30,4 @@ Checks:
 
 npm run seed resets the app's data. Stop the app before running it.
 
-05's systemd fault setup isn't included yet; npm run dev runs the app without it.
+05's systemd setup is in runtime/. Use --faults to install the broken configuration.

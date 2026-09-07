@@ -1,10 +1,10 @@
 contactsheet
 
-A deployed API, a background worker and three ways for them to disagree.
+An API and a background worker, both using SQLite.
 
-The original deployment used separate systemd services for the API and worker.
-Local npm run dev does not install that service configuration. The VM-specific
-configuration is not included in this repository.
+The systemd installer is in ../../runtime/. It can install a working service
+configuration or one with database, file-limit and directory-permission faults.
+Local npm run dev runs without that service configuration.
 
 Submit a small batch of four captures, then a batch of 72. Inspect the queue,
 worker logs and resulting downloads. Preserve the three historical batches.
